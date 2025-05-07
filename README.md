@@ -37,6 +37,7 @@
 2. [Map of Top200 US universities (2025USNEWS)](https://www.google.com/maps/d/viewer?mid=1ejHyjTJx0D7FoI_xaUDileyIFoDkjK4)
 3. [Personal Website Template (An easy-to-use personal website template with detailed tutorials)](https://github.com/liaoyanqing666/liaoyanqing666.github.io)
 4. [Love Photo Wall Website (A beautiful (love) photo storage and display site)](https://github.com/liaoyanqing666/Photo_Wall)
+5. [How to deal with Prisoner's Dilemma? - Axelrod's Tournament](https://github.com/liaoyanqing666/Prisoner-s_Dilemma)
 
 </details>
 
