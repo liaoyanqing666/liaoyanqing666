@@ -55,7 +55,7 @@ For more details about my work and projects, please visit my [Resume Website](ht
 <summary> <b>Click to see all contact details.</b></summary>
 
 - 📧 **Email 1:** [![QQ Email](https://img.shields.io/badge/QQ%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1793706453@qq.com) 1793706453@qq.com (most used)
-- 📧 **Email 2:** [![School Email](https://img.shields.io/badge/School%20Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lyq@shu.edu.cn) lyq@shu.edu.cn
+- 📧 **Email 2:** [![School Email(UGA)](https://img.shields.io/badge/School%20Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:sl64343@uga.edu) Siyuan.Li1@uga.edu
 - 📧 **Email 3:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liaoyanqing666@gmail.com) liaoyanqing666@gmail.com
 - ❌ **Twitter (X):** [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/liaoyanqing666) liaoyanqing666
 - 🐧 **QQ:** [![QQ](https://img.shields.io/badge/QQ-EB1923?style=flat&logo=tencent-qq&logoColor=white)](tencent://message/?uin=1793706453) 1793706453
