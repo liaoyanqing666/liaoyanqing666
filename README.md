@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I'm an incoming **Ph.D.** student in **Computer Science** at the University of Georgia. *But due to visa issues, I'm not sure whether I can complete the enrollment smoothly.*
+- 🎓 I'm an incoming **Ph.D.** student in **Computer Science** at the University of Georgia. Due to visa issues, I've defered to 2026 Spring.
 - 🎓 I obtained my Bachelor’s degree in **Artificial Intelligence** from Shanghai University, Class of 2021–2025.
 - 🧠 My academic background is primarily focused on **AI for Science** and **Multimodality**, but my GitHub projects span areas such as **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Machine Learning** research, and some **interesting tools** (can be seen below).
 - 🏅 As a former **ICPC competitor**, I have won two **Bronze Medals**.
