@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me:
 - 🎓 I'm an incoming **Ph.D.** student in **Computer Science** at the University of Georgia. Due to visa issues, I've defered to 2026 Spring.
-- 🎓 I obtained my Bachelor’s degree in **Artificial Intelligence** from Shanghai University, Class of 2021–2025.
-- 🧠 My academic background is primarily focused on **AI for Science** and **Multimodality**, but my GitHub projects span areas such as **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Machine Learning** research, and some **interesting tools** (can be seen below).
+- 🎓 I obtained my Bachelor’s degree in Artificial Intelligence from Shanghai University with the first ranking in the major, Class of 2021–2025.
+- 🧠 My academic background is primarily focused on **AI for Science** and **Multimodality**, but my GitHub projects span areas such as **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Machine Learning** research, along with some **useful tools** [(can be seen below)](#some-useful-tools-made-by-me).
 - 🏅 As a former **ICPC competitor**, I have won two **Bronze Medals**.
 - 🌐 I am dedicated to publishing repositories in both **English and Chinese** to make my work accessible to a wider audience.
 - 💻 I am passionate about solving challenging problems in AI and continuously expanding my knowledge.
@@ -31,7 +31,7 @@
 </p>
 
 <details open>
-<summary> <b>Some useful tools made by me:</b></summary>
+<summary id="some-useful-tools-made-by-me"><b>Some useful tools made by me:</b></summary>
 
 
 1. [Time Floating Window (A program that displays a small floating window of time on Windows)](https://github.com/liaoyanqing666/Time_Floating_Window)
