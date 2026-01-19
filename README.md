@@ -7,9 +7,9 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I'm an incoming **Ph.D.** student in **Computer Science** at the University of Georgia. Due to visa issues, I've defered to 2026 Spring.
+- 🎓 I'm a **Ph.D.** student in **Computer Science** at the University of Georgia, starting in **Spring 2026** (deferred from Fall 2025).
 - 🎓 I obtained my Bachelor’s degree in Artificial Intelligence from Shanghai University with the first ranking in the major, Class of 2021–2025.
-- 🧠 My academic background is primarily focused on **AI for Science** and **Large Language Models**, but my GitHub projects span areas such as **Natural Language Processing (NLP)**, **Multimodality**, and **Machine Learning** research, along with some **useful tools** [(can be seen below)](#some-useful-tools-made-by-me).
+- 🧠 My academic background is primarily focused on **Large Language Models** and **AI for Science**, but my GitHub projects span areas such as **Natural Language Processing (NLP)**, **Multimodality**, and **Machine Learning** research, along with some **useful tools** [(can be seen below)](#some-useful-tools-made-by-me).
 - 🏅 As a former **ICPC competitor**, I have won two **Bronze Medals**.
 - 🌐 I am dedicated to publishing repositories in both **English and Chinese** to make my work accessible to a wider audience.
 - 💻 I am passionate about solving challenging problems in AI and continuously expanding my knowledge.
