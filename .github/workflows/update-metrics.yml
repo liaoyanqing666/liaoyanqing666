@@ -18,10 +18,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
 
       - name: Generate metrics SVG
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: liaoyanqing666
@@ -41,5 +44,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/github-metrics.svg
-          git diff --cached --quiet || git commit -m "chore: update github metrics"
-          git push
+          if git diff --cached --quiet; then
+            echo "No metrics changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update github metrics"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push origin HEAD:${{ github.ref_name }}
