@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I'm a **Ph.D.** student in **Computer Science** at the University of Georgia, starting in **Spring 2026** (deferred from Fall 2025).
+- 🎓 I'm a **Ph.D.** student in **Computer Science** at the **University of Georgia (UGA)** , starting in **Spring 2026** (deferred from Fall 2025). And I am also a visiting **Ph.D.** student in **Harvard Medical School and Massachusetts General Hospital (HMS&MGH)**.
 - 🎓 I obtained my Bachelor’s degree in Artificial Intelligence from Shanghai University with the first ranking in the major, Class of 2021–2025.
 - 🧠 My academic background is primarily focused on **Large Language Models** and **AI for Science**, but my GitHub projects span areas such as **Natural Language Processing (NLP)**, **Multimodality**, and **Machine Learning** research, along with some **useful tools** [(can be seen below)](#some-useful-tools-made-by-me).
 - 🏅 As a former **ICPC competitor**, I have won two **Bronze Medals**.
